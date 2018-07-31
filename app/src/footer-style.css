@@ -4,13 +4,14 @@
     div.footer {
         position:absolute;
         bottom:0;
-        width:99.8%;
-        height:2%;   /* Height of the footer */
+        width:105%;
+        height:3%;   /* Height of the footer */
         background: #FFF;
         border-top: 1px solid rgba(0, 0, 0, 0.267);
-        margin-left: -0.5%;
+        margin-left: -5%;
         text-align: center;
         text-align-last: center;
+        overflow: hidden;
     }
     a.footer{
         font-family: 'Ubuntu', Geneva, Tahoma, sans-serif;
@@ -27,11 +28,11 @@
     div.footer{
         position:absolute;
         bottom:0;
-        width:99%;
+        width:101%;
         height:5%;   /* Height of the footer */
         background: #FFF;
         border-top: 1px solid rgba(0, 0, 0, 0.267);
-        margin-left: -0.5%;
+        margin-left: -1%;
         text-align: center;
         text-align-last: center;
     }
