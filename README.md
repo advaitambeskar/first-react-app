@@ -2,9 +2,9 @@
 
 first-react-app is the react deployment of my personal website hosted at domain name: http://www.advaitambeskar.com/
 
-It is easy to run this on your own system
+* It is easy to run this on your own system
     - npm start
-Once successful, go to the browser to view the webpage on
+* Once successful, go to the browser to view the webpage on
     - http://localhost:8080
 
 Features
