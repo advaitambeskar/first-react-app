@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500');
+
+@media only screen and (min-width: 580px){
+    aboutHeader{
+
+    }
+    aboutRow{
+
+    }
+    aboutPosition{
+        
+    }
+}
+
+@media only screen and (max-width: 580px){
+}
