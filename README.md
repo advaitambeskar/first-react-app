@@ -9,13 +9,13 @@ Features
 
 Installation
 ------------
-    - git clone https://www.github.com/advaitambeskar/first-react-app/
+    - git clone [https://www.github.com/advaitambeskar/first-react-app/](https://www.github.com/advaitambeskar/first-react-app/)
     - npm start
     - http://localhost:8080
 
 Contribute
 -----------
-Source Code : https://www.github.com/advaitambeskar/first-react-app/
+Source Code : [https://www.github.com/advaitambeskar/first-react-app/](https://www.github.com/advaitambeskar/first-react-app/)
 
 Support
 -------
@@ -25,5 +25,5 @@ If you wish to use the template for your personal website, all I ask for is a ba
 
 Resources
 ---------
-* Live Demo: http://www.advaitambeskar.com/
-* Documentation resource: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+* Live Demo: [http://www.advaitambeskar.com/](https://www.github.com/advaitambeskar/first-react-app/)
+* Documentation resource: [https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/](https://www.github.com/advaitambeskar/first-react-app/)
