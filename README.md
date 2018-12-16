@@ -14,11 +14,7 @@ Features
 
 Installation
 ------------
-Install the project by running:
     - git clone https://www.github.com/advaitambeskar/first-react-app/
-Test the app by visiting
-    - http://localhost:8080
-
 
 Contribute
 -----------
