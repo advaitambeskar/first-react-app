@@ -9,7 +9,7 @@ Features
 
 Installation
 ------------
-    - git clone [https://www.github.com/advaitambeskar/first-react-app/](https://www.github.com/advaitambeskar/first-react-app/)
+    - git clone https://www.github.com/advaitambeskar/first-react-app/
     - npm start
     - http://localhost:8080
 
