@@ -1,7 +1,7 @@
 # first-react-app
-$first-react-app
+$project
 ========
-$first-react-app is the react deployment of my personal website hosted at domain name: http://www.advaitambeskar.com/
+$project is the react deployment of my personal website hosted at domain name: http://www.advaitambeskar.com/
 
 It is easy to run this on your own system
     npm start
