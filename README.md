@@ -1,12 +1,11 @@
 # first-react-app
-$project
-========
-$project is the react deployment of my personal website hosted at domain name: http://www.advaitambeskar.com/
+
+first-react-app is the react deployment of my personal website hosted at domain name: http://www.advaitambeskar.com/
 
 It is easy to run this on your own system
-    npm start
+    - npm start
 Once successful, go to the browser to view the webpage on
-    http://localhost:8080
+    - http://localhost:8080
 
 Features
 --------
@@ -16,9 +15,9 @@ Features
 Installation
 ------------
 Install the project by running:
-    git clone https://www.github.com/advaitambeskar/first-react-app/
+    - git clone https://www.github.com/advaitambeskar/first-react-app/
 Test the app by visiting
-    http://localhost:8080
+    - http://localhost:8080
 
 
 Contribute
