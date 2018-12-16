@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
 
-@media only screen and (min-width: 360px){
+@media only screen and (min-width: 580px){
     div.firstName{
         border: none;
         margin-left:-1%;
@@ -17,7 +17,7 @@
         font-family: 'Ubuntu', Verdana, Geneva, Tahoma, sans-serif;
         font-weight: 400;
         font-size: 4rem;
-        color: #FFFFFF;
+        color: #000000;
     }
 }
 
@@ -34,14 +34,14 @@
     }
     50% {
         background-color: #000000;
-        color: #FFF
+        color: #FFF;
     }
     100% {
         background-color: #00000023;
         color: #000;
     }
 }
-@media only screen and (max-width: 360px){
+@media only screen and (max-width: 580px){
     div.firstName{
         border: none;
         margin-left:-1%;
@@ -64,8 +64,8 @@
     p.behindEffect{
         font-family: 'Playfair Display', serif;
         font-weight: 700;
-        font-size: 10rem;
-        color: #FFFFFF;
+        font-size: 9rem;
+        color: #000;
         z-index: -1;
     }
 }
